@@ -2,6 +2,9 @@
 DPF MONITOR Alfa Romeo 159 Instrument Cluster Display
 DPF MONITOR Alfa Romeo | Opening Ceremony | Sweep-up Gauges | Alfa Romeo 159
 
+https://www.youtube.com/watch?v=yD4FI52CANM
+
+
 Below is presented the construction and commissioning instructions for the DPF MONITOR module prototype for the Alfa Romeo 159 JTDm. The module can be plugged directly into the OBDII socket. For its operation, no additional devices or modules in the ELM USB / RS232 / Bluetooth / WiFi interface style are required - the presented module is fully independent.
 
 The main task of the module is the continuous monitoring of the DPF clogging / burnout status and on-demand display of the DPF status data on the central display between the so-called clocks. ICD Instruments Cluster Display.
